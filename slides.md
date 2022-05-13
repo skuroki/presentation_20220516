@@ -80,13 +80,6 @@ https://atcoder.jp/contests/practice
 
 ## 工夫/私がやったこと
 
-- 手元で動作確認してから出せば良い
-- そのための環境を作って置くと楽
-
----
-
-## 工夫/私がやったこと
-
 ![](images/guard.png)
 
 ---
@@ -131,3 +124,14 @@ https://atcoder.jp/contests/practice
 - <span style="color:red">Ruby</span>とほぼ同じ文法
   - 「ほぼ」というのがポイントで、微妙に違う
 - 実行速度がだいぶ速い
+
+---
+
+# 実演
+
+---
+
+## そんなわけで
+
+- やったことない人はぜひ一度
+  - ruby-jp slackの \#atcoder \#crystal がおすすめ
